@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "406597846760",
+    "firebase_url": "https://ionicfire-catbook.firebaseio.com",
+    "project_id": "ionicfire-catbook",
+    "storage_bucket": "ionicfire-catbook.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406597846760:android:ba350f5a4a8f855d",
+        "android_client_info": {
+          "package_name": "za.co.waitr.waitr_restaurant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "406597846760-u6vindhb1709su3k6g4gd1r1vfja9ho4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBntQfQs3pWLXwXRwhSa42oxRY6AFZeZ8M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
